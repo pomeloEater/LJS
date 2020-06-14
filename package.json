@@ -1,0 +1,33 @@
+{
+  "name": "ljs",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript, 3rd Edition\r == Chapter 2: JavaScript Development Tools",
+  "main": "main.js",
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^7.2.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.20.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-eslint": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomeloEater/LJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pomeloEater/LJS/issues"
+  },
+  "homepage": "https://github.com/pomeloEater/LJS#readme"
+}
